@@ -1,2 +1,2 @@
 # Kai-s-Adventure
-meme game(python)
+meme game(python)(text adventure)
