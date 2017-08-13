@@ -1,2 +1,2 @@
 # Kai-s-Adventure
-meme game(python)(text adventure)
+Meme game written in python (text adventure)(applicable in CMD)
