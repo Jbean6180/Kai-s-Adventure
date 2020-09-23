@@ -1,8 +1,5 @@
 from PIL import Image
 
-im = Image.open('oldman.jpg')
-im = Image.open('oldlady.jpg')
-
 start = '''
 My name is Kai "milk chocolate" Jones; I just left a house party at your friend's house.
 I decided I want some cake to nurse my hangover with.
@@ -44,7 +41,7 @@ if user_input == "buy a cake":
                 if user_input == "1":
                         print("Press X to dodge her ashy hands")
 
-                        im.show()
+
 
                         print("dang, you got beat down by an old lady...out bad..")
 
@@ -80,7 +77,7 @@ elif user_input == "bake a cake":
 
             print("the old man hits you in the head with a..you guessed it ..a mountian dew bottle; He kidnaps you and know you're trapped in the basement....out bad..")
 
-            im.show()
+
 
             print("Crazy OLd man/ No cAke ending")# ending
         elif user_input == "2":
